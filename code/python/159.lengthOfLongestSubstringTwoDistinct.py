@@ -1,3 +1,4 @@
+# Tag:滑动窗口，双指针
 from collections import defaultdict
 class Solution:
     def lengthOfLongestSubstringTwoDistinct(self, s: str) -> int:
